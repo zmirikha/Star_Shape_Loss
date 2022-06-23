@@ -22,3 +22,5 @@ The corresponding bibtex entry is:
   organization={Springer}
 }
 ```
+## Usage
+An example usage is shown in `demo.ipynb` Star shape loss is calculated for a sample skin lesion image, its ground truth, and a predicted probability map, included in `images` directory.
